@@ -26,9 +26,10 @@ export default defineConfig({
           collapsed: false,
 
           items: [
-            { text: "Project 1", link: "/projects/project1" },
-            { text: "Project 2", link: "/projects/project2" },
-            { text: "Project 3", link: "/projects/project3" },
+            { text: "ALS Helper", link: "/projects/als-helper" },
+            { text: "Student Database in C++", link: "/projects/student-database" },
+            { text: "Terminal Minesweeper", link: "/projects/terminal-minesweeper" },
+            { text: "Concealed Crossings", link: "/projects/concealed-crossings" },
           ],
         },
       ],
