@@ -43,7 +43,7 @@ export default defineConfig({
 
     footer: {
       message: "Made with ❤️ by Ted Birkland",
-      copyright: '© 2024 Sephonix, Released under the GNU General Public License.',
+      copyright: '© 2024 Sephonix. <a href="/privacy-policy">Privacy Policy</a>',
     },
     search: {
       provider: 'local'
