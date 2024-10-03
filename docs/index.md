@@ -4,6 +4,10 @@ layout: home
 
 hero:
   name: "Hello, I'm Ted."
+  tagline: "Modeling & Simulation Engineering Student @ Old Dominion University"
+  image:
+    src: /assets/profile.jpg
+    alt: "Profile Picture"
   actions:
     - theme: brand
       text: 📃 My Projects
